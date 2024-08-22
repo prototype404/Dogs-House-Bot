@@ -89,7 +89,7 @@ async def main():
 
             balance += bot.balance
 
-        logging.info(f"Общий капитал фермы: {balance} DOGS!")
+    logging.info(f"Общий капитал фермы: {balance} DOGS!")
 
 
 if __name__ == "__main__":
